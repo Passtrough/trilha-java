@@ -1,4 +1,5 @@
-# Conta Bancaria (Trilha Java)
+# Java Basico (Trilha Java)
 
-Exercicio simples para fixação da sitaxe Java e a importação do Scanner :) 
-
+- Exercicios para fixação da sintaxe Java
+- Utilização do Scanner
+- Controle de fluxo (try/catch) 
